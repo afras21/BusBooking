@@ -1,0 +1,57 @@
+{
+    "result": [
+        [
+            "id",
+            "name",
+            "cancellation_time",
+            "cancel_based_on_main_dep_allowed",
+            "logo_internal",
+            "logo_small",
+            "logo",
+            "operator_url",
+            "cancellation_policies",
+            "created_at",
+            "updated_at",
+            "convenience_charge_percent",
+            "service_tax_percent",
+            "schedules_count",
+            "round_trip"
+        ],
+        [
+            1,
+            "Seabird Travels",
+            0,
+            false,
+            "http://srs.ticketsimply.com/themes/images/logo_internal.png",
+            "http://srs.ticketsimply.com/themes/images/logo_small.jpg",
+            "http://srs.ticketsimply.com/themes/images/logo.png",
+            "http://srs.ticketsimply.com/",
+            "0-8|No Cancellation,8-12|95,12-24|80,0-24|50,24-48|40,48-720|10",
+            "2010-06-01 11:52",
+            "2016-02-03 21:57",
+            40,
+            10,
+            50,
+            true
+        ],
+        [
+            3,
+            "Orange Travels",
+            4,
+            false,
+            "http://www.ticketsimply1.com/themes//images/logo_internal.png",
+            "http://www.ticketsimply1.com/themes//images/logo_small.jpg",
+            "http://www.ticketsimply1.com/themes//images/logo.png",
+            "http://www.ticketsimply1.com/",
+            9,
+            "0-6|No Cancellation,6-12|95,12-24|80,0-24|50,24-48|40,48-720|10",
+            "2010-08-06 13:56",
+            "2016-02-03 21:56",
+            20,
+            0,
+            50,
+            true
+        ]
+
+    ]
+}

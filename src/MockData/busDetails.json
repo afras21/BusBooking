@@ -1,0 +1,163 @@
+{
+    "result": [
+        {
+            "id": 359239,
+            "name": "",
+            "number": "BANGALORE TO CHN NEW",
+            "service_name": "Siri Travels R5",
+            "origin_id": 134,
+            "destination_id": 251,
+            "op_schedule_id": 38094,
+            "travel_date": "2020-05-07",
+            "travel_id": 21,
+            "travels_name": "Siri Travels R5",
+            "route_id": 389,
+            "route_map_id": null,
+            "available_seats": 26,
+            "description": "",
+            "dep_time": "20:00",
+            "duration": "08:00",
+            "arr_time": "04:00",
+            "bus_type": "2+1, Volvo Sleeper, AC, LED",
+            "cost": "SLB:1001.0,SUB:1001.0,DLB:1001.0,DUB:1001.0",
+            "can_cancel": true,
+            "cancellation_time": 0,
+            "cabin_layout": false,
+            "status": "Update",
+            "is_service_tax_applicable": true,
+            "helpline_number": null,
+            "amenities": "[\"Reading Light\",\"Snacks\",\"Towel\",\"Water Bottle\",\"WiFi\"]",
+            "via": "Vellore, ",
+            "bus_layout": {
+                "total_seats": 30,
+                "coach_details": "U6|SUB-L1|SLB-|.GY-L11|DLB-L12|DLB-U21|DUB-U22|DUB,--|.GY,U7|SUB-L2|SLB-|.GY-L13|DLB-L14|DLB-U23|DUB-U24|DUB,--|.GY,U8|SUB-L3|SLB-|.GY-L15|DLB-L16|DLB-U25|DUB-U26|DUB,--|.GY,U9|SUB-L4|SLB-|.GY-L17|DLB-L18|DLB-U27|DUB-U28|DUB,--|.GY,U10|SUB-L5|SLB-|.GY-L19|DLB-L20|DLB-U29|DUB-U30|DUB,--|.GY",
+                "available": ",U6|1001.0,L1|1001.0,L11|1001.0,L12|1001.0,U7|1001.0,L2|1001.0,L13|1001.0,L14|1001.0,U8|1001.0,L3|1001.0,L15|1001.0,L16|1001.0,U25|1001.0,U26|1001.0,U9|1001.0,L4|1001.0,L17|1001.0,L18|1001.0,U27|1001.0,U28|1001.0,U10|1001.0,L5|1001.0,L19|1001.0,L20|1001.0,U29|1001.0,U30|1001.0",
+                "ladies_seats": "",
+                "gents_seats": "",
+                "ladies_booked_seats": "",
+                "gents_booked_seats": "U21,U22,U23,U24",
+                "allow_gents_next_to_ladies": false,
+                "allow_ladies_next_to_gents": false,
+                "boarding_stages": "2544|20:00|Morning Star Travels Office, Beside Volvo Car Show Room, Swiss Complex, Near Race Course Circle|Morning Star Travels Office, Beside Volvo Car Show Room, Swiss Complex, Near Race Course Circle|08041572599 7259272591 9019174174 18004209999|Anand Rao Circle|1",
+                "dropoff_stages": "3870|03:00|Vellore|Vellore|0000000000|Vellore|2~10925|04:00|BUS STAND|Cmbt Bus Stand|9638527411|Cmbt (Koyambedu)|2~1349|05:00|OPP TO RAILWAY STATION|Egmore|7894561233|Egmore|2",
+                "floor": "",
+                "last_seats": "",
+                "forced_seats": "",
+                "fares_hash": {
+                    "SLB": {
+                        "Adult": "1001.0",
+                        "Child": "2100.0",
+                        "Senior": "2000"
+                    },
+                    "SUB": {
+                        "Adult": "1001.0",
+                        "Child": "1000.0",
+                        "Senior": "2000"
+                    },
+                    "DLB": {
+                        "Adult": "1001.0",
+                        "Child": "1000.0",
+                        "Senior": "2000"
+                    },
+                    "DUB": {
+                        "Adult": "1001.0",
+                        "Child": "1000.0",
+                        "Senior": "2000"
+                    }
+                }
+            },
+            "trip_id": "BITLA:21:389",
+            "city_seq_order": [
+                "134",
+                "1580",
+                "251"
+            ],
+            "cancellation_policy": "",
+            "main_dep_time": "07/05/2020 20:00",
+            "service_tax_percent": 5,
+            "convenience_charge_percent": 1.8,
+            "is_ac_bus": true,
+            "api_type": 1,
+            "allow_reschedule": true,
+            "route_version": "359239-1",
+            "flexi_fare": null,
+            "allow_ladies_to_book_double_seats": true,
+            "res_details": {},
+            "transaction_charges": "",
+            "no_coach_layout": false,
+            "is_package_fare_allowed": false,
+            "cancellation_reference_type": "By Stage Departure Time"
+        },
+        {
+            "id": 336936,
+            "name": "BLR-MAA",
+            "number": "1556(3)",
+            "service_name": "UNIQUE",
+            "origin_id": 134,
+            "destination_id": 251,
+            "op_schedule_id": 29249,
+            "travel_date": "2020-05-09",
+            "travel_id": 21,
+            "travels_name": "Orange Bus",
+            "route_id": 7,
+            "route_map_id": null,
+            "available_seats": 39,
+            "description": "",
+            "dep_time": "23:15",
+            "duration": "05:45",
+            "arr_time": "05:00",
+            "bus_type": "2+2, Deccan Auto, AC, Video",
+            "cost": "SS:571.43",
+            "can_cancel": true,
+            "cancellation_time": 0,
+            "cabin_layout": true,
+            "status": "Update",
+            "is_service_tax_applicable": true,
+            "helpline_number": null,
+            "amenities": "[\"Reading Light\",\"Snacks\",\"Towel\",\"Water Bottle\",\"WiFi\"]",
+            "via": "",
+            "bus_layout": {
+                "total_seats": 49,
+                "coach_details": "V4|SS-V3|SS-|.GY-V2|SS-V1|SS,1|SS-2|SS-|.GY-3|SS-4|SS,8|SS-7|SS-|.GY-6|SS-5|SS,9|SS-10|SS-|.GY-11|SS-12|SS,16|SS-15|SS-|.GY-14|SS-13|SS,17|SS-18|SS-|.GY-19|SS-20|SS,24|SS-23|SS-|.GY-22|SS-21|SS,25|SS-26|SS-|.GY-27|SS-28|SS,32|SS-31|SS-|.GY-30|SS-29|SS,33|SS-34|SS-|.GY-35|SS-36|SS,40|SS-39|SS-|.GY-38|SS-37|SS,41|SS-42|SS-|.GY-43|SS-44|SS,PA_IMG|SS-|.GY-|.GY-|.GY-WR_IMG|NA",
+                "available": "V4|571.43,V3|571.43,1|571.43,2|571.43,3|571.43,4|571.43,16|571.43,15|571.43,14|571.43,13|571.43,17|571.43,18|571.43,19|571.43,20|571.43,24|571.43,23|571.43,22|571.43,21|571.43,25|571.43,26|571.43,27|571.43,28|571.43,32|571.43,31|571.43,30|571.43,29|571.43,33|571.43,34|571.43,35|571.43,36|571.43,40|571.43,39|571.43,38|571.43,37|571.43,41|571.43,42|571.43,43|571.43,44|571.43,PA_IMG|571.43",
+                "ladies_seats": "",
+                "gents_seats": "",
+                "ladies_booked_seats": "",
+                "gents_booked_seats": "V2,V1,8,7,6,5,9,10,11,12",
+                "allow_gents_next_to_ladies": false,
+                "allow_ladies_next_to_gents": false,
+                "boarding_stages": "6310|23:15|police station|Madiwala|9638852574|Madiwala|1~2393|23:30|police station|Madiwala|9638852574|Koramangala|1",
+                "dropoff_stages": "10925|05:00|BUS STAND|Cmbt Bus Stand|9638527411|Cmbt (Koyambedu)|2~1349|05:15|OPP TO RAILWAY STATION|Egmore|7894561233|Egmore|2",
+                "floor": "",
+                "last_seats": "",
+                "forced_seats": "",
+                "fares_hash": {
+                    "SS": {
+                        "Adult": "571.43",
+                        "Child": "476.19"
+                    }
+                }
+            },
+            "trip_id": "BITLA:21:7",
+            "city_seq_order": [
+                "134",
+                "251"
+            ],
+            "cancellation_policy": "",
+            "main_dep_time": "09/05/2020 23:15",
+            "service_tax_percent": 5,
+            "convenience_charge_percent": 1.8,
+            "is_ac_bus": true,
+            "api_type": 1,
+            "allow_reschedule": true,
+            "route_version": "336936-3",
+            "flexi_fare": null,
+            "allow_ladies_to_book_double_seats": true,
+            "res_details": {},
+            "transaction_charges": "",
+            "no_coach_layout": false,
+            "is_package_fare_allowed": false,
+            "cancellation_reference_type": "By Stage Departure Time"
+        }
+]
+}
