@@ -23,15 +23,15 @@ export default class BusList extends Component {
     console.log('hitting here');
     this.handleChangeCollapse('seatDetail')();
     const {
-      busDetails: { destinationId, scheduleId, sourceId, busId }
+      busDetails: { destination_id, id, origin_id }
     } = this.props;
     const baseUrl = config.baseUrl;
     const url = `${baseUrl}${config.scheduleTrip}`;
     const body = {
-      scheduleId,
-      busId,
-      sourceId,
-      destinationId
+      id,
+      // busId,
+      origin_id,
+      destination_id
     };
     console.log('Bus Details', body)
 

@@ -220,12 +220,17 @@ export default class Dashboard extends Component {
             {search ? (
               newSearch.length ? (
                 newSearch.map((item, index) => {
+                  console.log('------item', item)
                   return (
                     <div key={index}>
                       <BusList
                         key={index}
                         busDetails={item}
                         amenitiesList={amenitiesList || {}}
+                        // destinationId={251}
+                        // scheduleId={338510}
+                        // sourceId={134}
+                        // busId={4}
                       />
                     </div>
                   );
